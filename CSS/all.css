@@ -1,0 +1,46 @@
+body {
+	margin: 0 auto;
+    width: 900px;
+ }
+ h6{
+	font-size:16px;
+	font-family:Georgia;
+}
+a{
+  text-decoration:none;
+ }
+a:hover {
+    text-decoration: underline;
+}
+table.main {
+    font-size:16px;
+    font-family:'PT Sans', sans-serif;
+    float:left;
+}
+#style1  {
+	display: block;
+	text-align:left;
+	font-family: 'PT Sans', sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+}
+#style1 ul {
+    list-style:none;
+    margin: 0px;
+    padding: 0px;
+}
+#style1 ul li {
+    list-style: none;
+    text-align:left;
+}
+#style1  li a {
+    display: block;
+    padding: 5px 10px;
+    border-bottom: 1px solid #cccccc;
+    text-decoration:none;
+    color: white;
+}
+.style {
+  border:0;
+  width:200px;
+}
